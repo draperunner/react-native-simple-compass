@@ -1,3 +1,7 @@
 ios/RNSimpleCompass.xcodeproj/project.xcworkspace/
 ios/RNSimpleCompass.xcodeproj/xcuserdata/
+.idea/
+node_modules/
 .DS_Store
+*.iml
+gen
